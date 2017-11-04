@@ -1,6 +1,6 @@
 .ipynb_checkpoints
-./data/*.rar
-./data/church
-./data/test_img
+data/*.rar
+data/church
+data/test_img
 
 .DS_Store
